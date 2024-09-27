@@ -16,42 +16,6 @@ This project use a Scrum project management and as to be as clean as possible us
 
 - [Application repository](https://github.com/2024-2025-ECOM-INFO5-G2/app)
 
-## Diagram of branches
-```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true}} }%%
-gitGraph
-   commit id:"c0"
-   commit id:"c1"
-   branch dev
-   checkout dev
-   commit id:"c2"
-   branch username.featureName
-   commit tag:"Adding a new feature" id:"c3"
-   checkout dev
-   branch dev_backup
-   checkout username.featureName
-   commit id:"c4"
-   checkout dev
-   merge username.featureName tag:"Merge request required"
-   checkout main
-   merge dev tag:"version 1"
-   checkout dev
-   commit id:"c5"
-   branch username.bugBugName
-   commit tag:"Fixing bug" id:"c6"
-   commit id:"c7"
-   checkout dev
-   merge username.bugBugName tag:"Merge request required"
-   commit id:"c8"
-   checkout dev_backup
-   merge dev
-   checkout main
-   merge dev tag:"version 2"
-   commit id:"c9"
-   
-```
-
-*NB : this is template is use only in the [code repository](./app)*
 ## Support
 - Subject : [Mes meilleurs menus](https://mmmenus.fr/)
 
