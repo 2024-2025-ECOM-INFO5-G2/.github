@@ -1,4 +1,4 @@
-# Open World Lego
+# ECOM 2024-2025 Project
 
 ## Description
 This project is carried out by a team of 6 students in their 5rd year of engineering school at Polytech Grenoble.
@@ -10,11 +10,11 @@ This project use a Scrum project management and as to be as clean as possible us
 
 ## Repository
 
-- [Documentation repository](./docs)
+- [Documentation repository](https://github.com/2024-2025-ECOM-INFO5-G2/docs)
 
-- [Playground repository](./sandbox)
+- [Playground repository](https://github.com/2024-2025-ECOM-INFO5-G2/sandbox)
 
-- [Application repository](./app)
+- [Application repository](https://github.com/2024-2025-ECOM-INFO5-G2/app)
 
 ## Diagram of branches
 ```mermaid
