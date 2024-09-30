@@ -25,7 +25,7 @@ This project use a Scrum project management and as to be as clean as possible us
 
 ## Authors
 - Romain MIRAS @RomainMIRAS
-- Alexandre ARLE @horlavia
+- Alexandre ARLE @arlealexandre
 - Amaury GOGUILLOT @Amaurax
 - Romain HOQUET @Butterjuice
 - Achraf KHRIBECH @achrafkhribech
