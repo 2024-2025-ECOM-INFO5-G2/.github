@@ -1,20 +1,20 @@
-# ECOM 2024-2025 Project
+# ECOM 2024-2025 Projet
 
 ## Description
-This project is carried out by a team of 6 students in their 5rd year of engineering school at Polytech Grenoble.
-This project is a fully fonctionnal website based on [JHipster](https://www.jhipster.tech/) to reproduce and help our customer ["Mes meilleurs menus"](https://mmmenus.fr/)
+Ce projet est réalisé par une équipe de 6 étudiants en 5ème année d'école d'ingénieur à Polytech Grenoble.
+Ce projet est un site web entièrement fonctionnel basé sur [JHipster](https://www.jhipster.tech/) afin de reproduire et aider nos clients ["Mes meilleurs menus"](https://mmmenus.fr/)
 
 ## Concept
-The aim of this project is to create an website using [JHipster](https://www.jhipster.tech/) and deploy it on an Azure Cloud.
-This project use a Scrum project management and as to be as clean as possible using CI/CD and many other project tool.
+Le but de ce projet est de créer un site web en utilisant [JHipster](https://www.jhipster.tech/) et de le déployer sur Azure Cloud.
+Ce projet utilise une gestion de projet Scrum et vise à être aussi propre que possible en utilisant CI/CD et beaucoup d'autres outils de projet.
 
-## Repository
+## Dépôts
 
-- [Documentation repository](https://github.com/2024-2025-ECOM-INFO5-G2/docs)
+- [Dépôt de Documentation](https://github.com/2024-2025-ECOM-INFO5-G2/docs)
 
-- [Playground repository](https://github.com/2024-2025-ECOM-INFO5-G2/sandbox)
+- [Dépôt de Test](https://github.com/2024-2025-ECOM-INFO5-G2/sandbox)
 
-- [Application repository](https://github.com/2024-2025-ECOM-INFO5-G2/app)
+- [Dépôt de l'application](https://github.com/2024-2025-ECOM-INFO5-G2/app)
 
 ## Support
 - Subject : [Mes meilleurs menus](https://mmmenus.fr/)
@@ -23,7 +23,7 @@ This project use a Scrum project management and as to be as clean as possible us
 - Project manager : romain.miras@etu.univ-grenoble-alpes.fr
 - Scrum master : alexandre.arle@etu.univ-grenoble-alpes.fr
 
-## Authors
+## Auteur
 - Romain MIRAS @RomainMIRAS
 - Alexandre ARLE @arlealexandre
 - Amaury GOGUILLOT @Amaurax
